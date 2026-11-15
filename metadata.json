@@ -1,0 +1,6 @@
+{
+  "name": "ICT Help Desk & Asset Management System",
+  "description": "Centralized platform for managing ICT support tickets, computer equipment, network devices, maintenance schedules, audit logs, and technical reports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
